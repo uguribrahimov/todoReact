@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+input {
+  flex-grow: 1;
+}
+
+button {
+  margin-left: 10px;
+}
+
+.ListGroupItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ListGroupItem button {
+  margin-left: 10px;
+}
